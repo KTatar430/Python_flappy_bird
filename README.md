@@ -15,18 +15,8 @@ flappy_bird_clone
 │   │   ├── base.py      # Base class for ground rendering
 │   │   └── game_loop.py # Main game loop logic
 │   └── assets           # Contains asset loading functionality
-│       ├── __init__.py
-│       └── loader.py    # Loads images and sounds
-├── requirements.txt     # Project dependencies
+│       └── __init__.py
 └── README.md            # Project documentation
-```
-
-## Requirements
-
-To run this project, you need to have Python installed along with the required libraries. You can install the dependencies using the following command:
-
-```
-pip install -r requirements.txt
 ```
 
 ## Running the Game
